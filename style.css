@@ -1,0 +1,97 @@
+/*
+ * From ProxyFreeList.com - #1 Proxy Topsite
+ *
+ *
+ * Submit your proxies sites to http://www.ProxyFreeList.com now!!
+ *
+*/
+
+
+body {
+margin-top: 40px;
+font: 12px 'lucida sans unicode', lucida, helvetica, verdana, arial, sans-serif;
+}
+
+#header {
+text-align: left;
+width: 762px;
+height: 55px;
+}
+
+#content {
+width: 762px;
+}
+
+#left {
+float: left;
+width: 221px;
+}
+
+#middle {
+float: left;
+width: 10px;
+}
+
+#right {
+float: left;
+width: 531px;
+}
+
+#browse {
+background-image:url(images/rbutton.gif);
+width:92px;
+height:37px;
+border: 0;
+}
+
+#address_box {
+	margin-top: 3px;
+	margin-left: 5px;
+	color:#000000;
+	background-color:#FFFFFF;
+	font-weight:bold;
+	font-size:14px;
+	font-family: "Bitstream Vera Sans", Arial, Helvetica, sans-serif;
+	width: 360px;
+	height: 20px;
+	border-style:solid;
+	border-color:#FFFFFF;
+}
+
+img {
+border: 0px;
+}
+
+ul {
+	width: 418px;
+	margin: 0;
+	padding: 1px;
+	list-style: none;
+}
+
+ul li {
+	font-size: 1em;
+	width: 410px;
+	margin: 0;
+}
+
+ul li.option input, ul#form li.option label {
+	float: left;
+	vertical-align: top;
+	margin: 0 3px 0 0;
+	height: 14px;
+}
+
+ul li.option {
+	display: block;
+	min-height: 14px;
+	height: 14px;
+	border: 1px solid #1b2021;
+	background: #1b2021;
+	color: #fff;
+	padding: 3px;
+	margin: 0 0 1px 0;
+}
+
+a { color: #35dcff; }
+a:hover { color: #0088df; }
